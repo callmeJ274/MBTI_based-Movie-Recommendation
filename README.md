@@ -6,5 +6,5 @@
   + cold_start_train/test.csv: data test for cold start from cleaned data for system evaluation
   + train/test_historical_data.csv: data test for cold start from cleaned data for system evaluation
 ## System demo
-1. Install libraries from !pip install -r requirements.txt
-2. Run demo python Movies_recommendation.py and follow the link to local web and fill out the survey to get the recommendation.
+1. Install libraries from 'pip install -r requirements.txt'
+2. Run demo 'python Movies_recommendation.py' and follow the link to local web and fill out the survey to get the recommendation.
