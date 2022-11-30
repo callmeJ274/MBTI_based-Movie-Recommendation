@@ -9,6 +9,7 @@
 - code.ipynb: contains evaluation score for the recommendation methodologies used in the project.
 - project_description.pdf: describes the project
 - Movies_recommendation.py: run demo Recommendation System
+- requirements.txt: libraries needed to run the demo
 ## System demo
 1. Install libraries from 'pip install -r requirements.txt'
 2. Run demo 'python Movies_recommendation.py' and follow the link to local web and fill out the survey to get the recommendation.
